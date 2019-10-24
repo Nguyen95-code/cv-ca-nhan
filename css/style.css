@@ -1,0 +1,41 @@
+.cv {
+    height: 900px;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border: solid;
+}
+.cv h1{
+    text-align: center;
+}
+.cv #a{
+    background: crimson;
+    height: 60px;
+    width: 100%;
+    border: thin solid;
+}
+.cv #b{
+    background: blue;
+    height: 60px;
+    width: 100%;
+    border: thin solid;
+    text-align: center;
+}
+.cv #c{
+    background: bisque;
+    height: 300px;
+    width: 100%;
+    text-align: left;
+    border: thin solid;
+    position: relative;
+}
+.cv #c img{
+    position: absolute;
+    right: 10%;
+    top: 0;
+}
+.cv #d{
+    width: 100%;
+    text-align: center;
+    border: thin solid;
+}
